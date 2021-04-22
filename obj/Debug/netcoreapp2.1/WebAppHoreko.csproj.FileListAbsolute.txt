@@ -1,0 +1,14 @@
+C:\Users\Milena\Desktop\WebAppHoreko\WebAppHoreko\bin\Debug\netcoreapp2.1\WebAppHoreko.deps.json
+C:\Users\Milena\Desktop\WebAppHoreko\WebAppHoreko\bin\Debug\netcoreapp2.1\WebAppHoreko.runtimeconfig.json
+C:\Users\Milena\Desktop\WebAppHoreko\WebAppHoreko\bin\Debug\netcoreapp2.1\WebAppHoreko.runtimeconfig.dev.json
+C:\Users\Milena\Desktop\WebAppHoreko\WebAppHoreko\bin\Debug\netcoreapp2.1\WebAppHoreko.dll
+C:\Users\Milena\Desktop\WebAppHoreko\WebAppHoreko\bin\Debug\netcoreapp2.1\WebAppHoreko.pdb
+C:\Users\Milena\Desktop\WebAppHoreko\WebAppHoreko\obj\Debug\netcoreapp2.1\WebAppHoreko.csprojAssemblyReference.cache
+C:\Users\Milena\Desktop\WebAppHoreko\WebAppHoreko\obj\Debug\netcoreapp2.1\WebAppHoreko.csproj.CoreCompileInputs.cache
+C:\Users\Milena\Desktop\WebAppHoreko\WebAppHoreko\obj\Debug\netcoreapp2.1\WebAppHoreko.RazorAssemblyInfo.cache
+C:\Users\Milena\Desktop\WebAppHoreko\WebAppHoreko\obj\Debug\netcoreapp2.1\WebAppHoreko.RazorAssemblyInfo.cs
+C:\Users\Milena\Desktop\WebAppHoreko\WebAppHoreko\obj\Debug\netcoreapp2.1\WebAppHoreko.AssemblyInfoInputs.cache
+C:\Users\Milena\Desktop\WebAppHoreko\WebAppHoreko\obj\Debug\netcoreapp2.1\WebAppHoreko.AssemblyInfo.cs
+C:\Users\Milena\Desktop\WebAppHoreko\WebAppHoreko\obj\Debug\netcoreapp2.1\WebAppHoreko.RazorTargetAssemblyInfo.cache
+C:\Users\Milena\Desktop\WebAppHoreko\WebAppHoreko\obj\Debug\netcoreapp2.1\WebAppHoreko.dll
+C:\Users\Milena\Desktop\WebAppHoreko\WebAppHoreko\obj\Debug\netcoreapp2.1\WebAppHoreko.pdb
